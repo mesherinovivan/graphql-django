@@ -9,7 +9,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 src/./manage.py migrate
 src/./manage.py runserver
-
+```
+### Run tests 
+```bash
+pytest src
 ```
 #### Postman collection there is directory src/postman/postman_collection.json
 
