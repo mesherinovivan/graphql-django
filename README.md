@@ -1,1 +1,2 @@
-# demo_django
+# graphql-django
+
